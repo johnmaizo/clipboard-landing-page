@@ -9,7 +9,7 @@
     <a href="https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9/hub"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
-    <a href="https://testimonials-grid-section-johnmaizo.netlify.app/">View Demo</a>
+    <a href="https://clipboard-landing-page-johnmaizo.netlify.app/">View Demo</a>
   </p>
 </div>
 
@@ -25,8 +25,8 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [Clipboard landing page using HTML and CSS | Frontend Mentor](https://www.frontendmentor.io/solutions/testimonials-grid-section-HFzY6lu_fu)
-- Live Site URL: [https://testimonials-grid-section-johnmaizo.netlify.app/](https://testimonials-grid-section-johnmaizo.netlify.app/)
+- Solution URL: [Clipboard landing page using HTML and CSS | Frontend Mentor](https://www.frontendmentor.io/solutions/clipboard-landing-page-x65sxK2t1i)
+- Live Site URL: [https://clipboard-landing-page-johnmaizo.netlify.app/](https://clipboard-landing-page-johnmaizo.netlify.app/)
 
 <br>
 
