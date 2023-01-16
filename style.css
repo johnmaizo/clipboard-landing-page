@@ -76,9 +76,10 @@ main {
 main::before {
     content: '';
     position: absolute;
-    background: url("images/bg-header-desktop.png") no-repeat top / cover;
+    background: url("images/bg-header-desktop.png") no-repeat;
     min-width: 100%;
-    height: 363px;
+    height: 100%;
+    background-size: contain;
     z-index: -1;
 }
 
@@ -423,6 +424,7 @@ footer .attribution {
 
 @media (max-width: 23.75em) {
     main::before {
-        background: url("images/bg-header-mobile.png") no-repeat center;
+        background: url("images/bg-header-mobile.png") no-repeat;
+        background-size: contain;   
     }
 }
